@@ -1,0 +1,54 @@
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Data.deps.json
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.json
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.dev.json
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\ref\CMS.Data.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.csprojAssemblyReference.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfo.cs
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\ref\CMS.Data.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.genruntimeconfig.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Ahmed Shalayel\source\repos\CMS\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CopyComplete
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.deps.json
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.json
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.dev.json
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\ref\CMS.Data.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfoInputs.cache
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfo.cs
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CopyComplete
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\ref\CMS.Data.dll
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.pdb
+C:\Users\Ahmed Shalayel\Source\Repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.genruntimeconfig.cache
+C:\Users\Ahmed Shalayel\source\repos\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csprojAssemblyReference.cache
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.deps.json
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.json
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.runtimeconfig.dev.json
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.dll
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\ref\CMS.Data.dll
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Data.pdb
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Core.dll
+E:\downlad\CMS.Web\CMS.Data\bin\Debug\net5.0\CMS.Core.pdb
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.AssemblyReference.cache
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfoInputs.cache
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.AssemblyInfo.cs
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CoreCompileInputs.cache
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.csproj.CopyComplete
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.dll
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\ref\CMS.Data.dll
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.pdb
+E:\downlad\CMS.Web\CMS.Data\obj\Debug\net5.0\CMS.Data.genruntimeconfig.cache
