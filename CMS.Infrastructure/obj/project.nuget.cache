@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SKchba0wKFliXiYh/eF2KcSpn1Ihqsdg5+AZzUbgTzpA8lprUBS8WcrcHFYeaqreK+iJ/Ofy5e40gJC9TFwN/g==",
+  "dgSpecHash": "FoecAsn9eLNkdacNp1Cl07s8BzB0VKS14mdOWkcrPpn9aRsZcJ++WH5UBMvmn2O5F22taivH7w9NoGjvxVPDEw==",
   "success": true,
-  "projectFilePath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+  "projectFilePath": "D:\\net projsct\\cms\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

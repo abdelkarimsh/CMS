@@ -10186,11 +10186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\downlad\\CMS.Web\\CMS.Web\\CMS.Web.csproj",
+      "projectUniqueName": "D:\\net projsct\\cms\\CMS.Web\\CMS.Web.csproj",
       "projectName": "CMS.Web",
-      "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Web\\CMS.Web.csproj",
+      "projectPath": "D:\\net projsct\\cms\\CMS.Web\\CMS.Web.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Web\\obj\\",
+      "outputPath": "D:\\net projsct\\cms\\CMS.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10207,8 +10207,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Courses\\downlad\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
-              "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj"
+            "D:\\net projsct\\cms\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
+              "projectPath": "D:\\net projsct\\cms\\CMS.Infrastructure\\CMS.Infrastructure.csproj"
             }
           }
         }

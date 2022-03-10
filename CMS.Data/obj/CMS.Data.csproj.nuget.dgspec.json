@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\CMS.Data.csproj": {}
+    "D:\\net projsct\\cms\\CMS.Data\\CMS.Data.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {
+    "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
+        "projectUniqueName": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj",
         "projectName": "CMS.Core",
-        "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
+        "projectPath": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\obj\\",
+        "outputPath": "D:\\net projsct\\cms\\CMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\CMS.Data.csproj": {
+    "D:\\net projsct\\cms\\CMS.Data\\CMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
+        "projectUniqueName": "D:\\net projsct\\cms\\CMS.Data\\CMS.Data.csproj",
         "projectName": "CMS.Data",
-        "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
+        "projectPath": "D:\\net projsct\\cms\\CMS.Data\\CMS.Data.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\obj\\",
+        "outputPath": "D:\\net projsct\\cms\\CMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj"
+              "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj"
               }
             }
           }

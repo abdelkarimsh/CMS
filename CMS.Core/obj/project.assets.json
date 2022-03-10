@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
+      "projectUniqueName": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj",
       "projectName": "CMS.Core",
-      "projectPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
+      "projectPath": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\obj\\",
+      "outputPath": "D:\\net projsct\\cms\\CMS.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

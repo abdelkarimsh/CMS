@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/hcrO21Phg+MKBA6uHV56B5A8ZZHRi+eBdiqYY2yXvzmbekZpszGIXhVjVgpTyE4sXV1S/f5qHDMRYr0GbUWw==",
+  "dgSpecHash": "rcoK7twDgO/Ztzu4CS8Jp8Brzh82lTXYy0DPIRPXQDxURWVbk+2Gdjx8xBifC39G+FyXyiFb/gj9AMs9IWET4Q==",
   "success": true,
-  "projectFilePath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
+  "projectFilePath": "D:\\net projsct\\cms\\CMS.Core\\CMS.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.10\\microsoft.aspnetcore.http.features.5.0.10.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

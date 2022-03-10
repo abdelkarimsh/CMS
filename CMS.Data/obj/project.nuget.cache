@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AeKw9flkFT91J7IVXnHY4t3XnyNoyH1pKWRcbcg2D6K1RRUuTJjN5ZcPYHWgt6vnGVTkUGpDglt0sbA1YKnEPw==",
+  "dgSpecHash": "5cZqw8T1ZgCdnrp9QYpkB6IgxlWzWG9phfpF86HqHS/WeEh39WxPMBxw95v/orWxsqXfPeSzunFrU4wGj0Y2TA==",
   "success": true,
-  "projectFilePath": "D:\\Courses\\downlad\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
+  "projectFilePath": "D:\\net projsct\\cms\\CMS.Data\\CMS.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",
